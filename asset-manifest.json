@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/modpro/static/css/main.9e2019e5.css",
+    "main.js": "/modpro/static/js/main.695cb6da.js",
+    "static/js/787.1f988d31.chunk.js": "/modpro/static/js/787.1f988d31.chunk.js",
+    "index.html": "/modpro/index.html",
+    "main.9e2019e5.css.map": "/modpro/static/css/main.9e2019e5.css.map",
+    "main.695cb6da.js.map": "/modpro/static/js/main.695cb6da.js.map",
+    "787.1f988d31.chunk.js.map": "/modpro/static/js/787.1f988d31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e2019e5.css",
+    "static/js/main.695cb6da.js"
+  ]
+}
